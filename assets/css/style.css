@@ -518,7 +518,7 @@ hr {
   background-size: 200%;
   transition: 0.6s;
   box-shadow: 0px 7px 21px 0px rgba(0, 0, 0, 0.12);
-  background-image: linear-gradient(to left, #670000, #880707, #670000);
+  background-image: linear-gradient(to left, #1E347C, #060A4E, #060A4E);
   background-position: right;
 }
 
@@ -3253,7 +3253,7 @@ hr {
 
 /* line 54, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
 .header-area .menu-wrapper .main-menu ul li a {
-  color: #670000;
+  color: #1E347C;
   font-weight: 400;
   padding: 39px 19px;
   display: block;
@@ -3279,7 +3279,7 @@ hr {
   content: "";
   width: 58px;
   height: 2px;
-  background: #670000;
+  background: #1E347C;
   bottom: 26px;
   margin: 0 auto;
   left: 3px;
