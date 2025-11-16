@@ -14,13 +14,13 @@
             padding: 10px 25px;
             padding-right: 25px;
             padding-right: 30px;
-            color: #FFEFAE;
+            color: #060A4E;
             font-weight: 400;
             text-transform: capitalize;
             border-radius: 0px;
             background: none;
             &::placeholder{
-                color: #FFEFAE;
+                color: #060A4E;
             }
             .list {
                 width: 100%;
@@ -29,7 +29,7 @@
         }
         textarea {
             color: #FFEFAE;
-                border: 1px solid #fff;
+                border: 1px solid #1E347C;
                 font-weight: 500;
                 letter-spacing: 0px;
                 text-transform: capitalize;
@@ -55,7 +55,7 @@
                 }
         }
         .contact {
-            border: 1px solid #eaedff;
+            border: 1px solid #1E347C;
             padding: 40px 10px;
             i {
                 background: #8fb569;
@@ -129,7 +129,7 @@
 // footer social
 .footer-social{
     & > a{
-        color: #FFEFAE;
+        color: #1E347C;
         width: 50px;
         height: 50px;
         font-size: 17px;
