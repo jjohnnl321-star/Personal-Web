@@ -2574,7 +2574,7 @@ hr {
   content: "";
   width: 58px;
   height: 2px;
-  background: #670000;
+  background: #1E347C;
   bottom: 26px;
   margin: 0 auto;
   left: 3px;
@@ -2591,7 +2591,7 @@ hr {
 .header-area .menu-wrapper .main-menu ul ul.submenu {
   position: absolute;
   width: 170px;
-  background: #670000;
+  background: #1E347C;
   left: 0;
   top: 90%;
   visibility: hidden;
