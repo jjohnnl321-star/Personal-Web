@@ -35,7 +35,7 @@
 
 /* line 41, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .section-bg2 {
-  background: #670000;
+  background: #060A4E;
 }
 
 /* line 49, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
@@ -67,7 +67,7 @@
 
 /* line 80, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .theme-bg {
-  background: #670000;
+  background: #060A4E;
 }
 
 /* line 83, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
@@ -93,32 +93,32 @@
 
 /* line 98, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .theme-color {
-  color: #670000;
+  color: #060A4E;
 }
 
 /* line 50, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_variables.scss */
 .boxed-btn {
   background: #fff;
-  color: #670000 !important;
+  color: #060A4E !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #670000;
+  border: 1px solid #060A4E;
   letter-spacing: 3px;
   text-align: center;
-  color: #670000;
+  color: #060A4E;
   text-transform: uppercase;
   cursor: pointer;
 }
 
 /* line 67, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_variables.scss */
 .boxed-btn:hover {
-  background: #670000;
+  background: #060A4E;
   color: #fff !important;
-  border: 1px solid #670000;
+  border: 1px solid #060A4E;
 }
 
 /* line 72, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_variables.scss */
@@ -215,7 +215,7 @@ h4,
 h5,
 h6 {
   font-family: "Poppins", sans-serif;
-  color: #670000;
+  color: #060A4E;
   margin-top: 0px;
   font-style: normal;
   font-weight: 400;
@@ -576,12 +576,12 @@ hr {
 .white-btn {
   padding: 18px 36px;
   background: #FFEFAE;
-  color: #670000 !important;
+  color: #060A4E !important;
 }
 
 /* line 307, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 .white-btn::before {
-  background: #670000;
+  background: #060A4E;
   color: #fff !important;
 }
 
@@ -633,7 +633,7 @@ hr {
   height: 60px;
   padding: 10px 20px;
   border: 0;
-  color: #670000;
+  color: #060A4E;
   text-transform: capitalize;
   cursor: pointer;
   font-size: 16px;
@@ -666,7 +666,7 @@ hr {
 .border-btn i {
   font-size: 16px;
   margin-right: 10px;
-  color: #670000;
+  color: #060A4E;
   -webkit-transition: 0.3s;
   -moz-transition: 0.3s;
   -o-transition: 0.3s;
@@ -736,7 +736,7 @@ hr {
 /* scrollUp */
 /* line 442, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_common.scss */
 #scrollUp, #back-top {
-  background: #670000;
+  background: #060A4E;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -2509,7 +2509,7 @@ hr {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #670000;
+  border-top-color: #060A4E;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -3022,7 +3022,7 @@ hr {
   font-weight: 300;
   line-height: 1.4;
   margin-bottom: 22px;
-  color: #670000;
+  color: #060A4E;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -3103,7 +3103,7 @@ hr {
 
 /* line 41, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .section-bg2 {
-  background: #670000;
+  background: #060A4E;
 }
 
 /* line 49, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
@@ -3135,7 +3135,7 @@ hr {
 
 /* line 80, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .theme-bg {
-  background: #670000;
+  background: #060A4E;
 }
 
 /* line 83, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
@@ -3161,7 +3161,7 @@ hr {
 
 /* line 98, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_color.scss */
 .theme-color {
-  color: #670000;
+  color: #060A4E;
 }
 
 /* line 5, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
@@ -3302,7 +3302,7 @@ hr {
 .header-area .menu-wrapper .main-menu ul ul.submenu {
   position: absolute;
   width: 170px;
-  background: #670000;
+  background: #060A4E;
   left: 0;
   top: 90%;
   visibility: hidden;
@@ -3387,7 +3387,7 @@ hr {
 
 /* line 165, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #670000 !important;
+  background-color: #060A4E !important;
 }
 
 /* line 169, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
@@ -3398,7 +3398,7 @@ hr {
 /* line 172, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #670000;
+  color: #060A4E;
 }
 
 /* line 176, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_headerMenu.scss */
@@ -3531,7 +3531,7 @@ hr {
 
 /* line 63, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_h1-hero.scss */
 .slider-area .hero__caption p a {
-  color: #670000;
+  color: #060A4E;
   text-decoration: underline !important;
 }
 
@@ -3817,7 +3817,7 @@ hr {
 
 /* line 78, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_about.scss */
 .about-area .experience span {
-  color: #670000;
+  color: #060A4E;
   font-size: 60px;
   margin-bottom: 18px;
   display: block;
@@ -3960,7 +3960,7 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
 .may-about {
-  background: #670000;
+  background: #060A4E;
 }
 
 /* line 4, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_my-about.scss */
@@ -4321,7 +4321,7 @@ hr {
 
 /* line 2, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_footer.scss */
 .footer-wrappr {
-  background: #670000;
+  background: #060A4E;
 }
 
 /* line 10, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_footer.scss */
@@ -4633,7 +4633,7 @@ hr {
 
 /* line 49, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a:hover {
-  color: #670000;
+  color: #060A4E;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -4707,7 +4707,7 @@ hr {
 
 /* line 109, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
 .blog_area a:hover, .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #670000 0%, #670000 99%);
+  background: -webkit-linear-gradient(131deg, #060A4E 0%, #060A4E 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -5229,7 +5229,7 @@ hr {
 
 /* line 639, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
 .blog_details a:hover {
-  color: #670000;
+  color: #060A4E;
 }
 
 /* line 644, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
@@ -5297,7 +5297,7 @@ hr {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #670000;
+  background-color: #060A4E;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -5392,7 +5392,7 @@ hr {
 
 /* line 789, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
 .blog_right_sidebar .search_widget .input-group button {
-  background: #670000;
+  background: #060A4E;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -5530,7 +5530,7 @@ hr {
 
 /* line 940, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #670000;
+  background: #060A4E;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
@@ -5778,7 +5778,7 @@ hr {
 
 /* line 1306, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
 .single-post-area .blog-author a:hover {
-  color: #670000;
+  color: #060A4E;
 }
 
 /* line 1311, C:/Users/HP/Desktop/jun-2020/283.Personal/assets/scss/_blog_page.scss */
