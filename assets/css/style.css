@@ -59,7 +59,7 @@
 }
 
 .theme-bg {
-  background: #DB8C1D;
+  background: #060A4E;
 }
 
 .brand-bg {
@@ -80,29 +80,29 @@
 }
 
 .theme-color {
-  color: #DB8C1D;
+  color: #060A4E;
 }
 
 .boxed-btn {
   background: #fff;
-  color: #DB8C1D !important;
+  color: #060A4E !important;
   display: inline-block;
   padding: 18px 44px;
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 400;
   border: 0;
-  border: 1px solid #DB8C1D;
+  border: 1px solid #060A4E;
   letter-spacing: 3px;
   text-align: center;
-  color: #DB8C1D;
+  color: #060A4E;
   text-transform: uppercase;
   cursor: pointer;
 }
 .boxed-btn:hover {
-  background: #DB8C1D;
+  background: #060A4E;
   color: #fff !important;
-  border: 1px solid #DB8C1D;
+  border: 1px solid #060A4E;
 }
 .boxed-btn:focus {
   outline: none;
@@ -476,7 +476,7 @@ hr {
   color: #670000 !important;
 }
 .white-btn::before {
-  background: #DB8C1D;
+  background: #060A4E;
   color: #fff !important;
 }
 
@@ -550,7 +550,7 @@ hr {
 .border-btn i {
   font-size: 16px;
   margin-right: 10px;
-  color: #DB8C1D;
+  color: #060A4E;
   transition: 0.3s;
 }
 @media (max-width: 575px) {
@@ -607,7 +607,7 @@ hr {
 
 /* scrollUp */
 #scrollUp, #back-top {
-  background: #DB8C1D;
+  background: #060A4E;
   height: 50px;
   width: 50px;
   right: 31px;
@@ -2004,7 +2004,7 @@ hr {
   position: relative;
   border-style: solid;
   border-width: 1px;
-  border-top-color: #DB8C1D;
+  border-top-color: #060A4E;
   border-bottom-color: transparent;
   border-left-color: transparent;
   border-right-color: transparent;
@@ -2467,7 +2467,7 @@ hr {
 }
 
 .theme-bg {
-  background: #DB8C1D;
+  background: #060A4E;
 }
 
 .brand-bg {
@@ -2488,7 +2488,7 @@ hr {
 }
 
 .theme-color {
-  color: #DB8C1D;
+  color: #060A4E;
 }
 
 .header-area .main-header {
@@ -2581,7 +2581,7 @@ hr {
   right: 0;
 }
 .header-area .menu-wrapper .main-menu ul li:hover > a {
-  color: #DB8C1D;
+  color: #060A4E;
 }
 .header-area .menu-wrapper .main-menu ul li:hover > ul.submenu {
   visibility: visible;
@@ -2650,14 +2650,14 @@ hr {
   top: -29px;
 }
 .mobile_menu .slicknav_menu .slicknav_btn .slicknav_icon-bar {
-  background-color: #DB8C1D !important;
+  background-color: #060A4E !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav {
   margin-top: 15px !important;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a:hover {
   background: transparent;
-  color: #DB8C1D;
+  color: #060A4E;
 }
 .mobile_menu .slicknav_menu .slicknav_nav a {
   font-size: 15px;
@@ -2969,7 +2969,7 @@ hr {
   }
 }
 .about-area .experience span {
-  color: #DB8C1D;
+  color: #060A4E;
   font-size: 60px;
   margin-bottom: 18px;
   display: block;
@@ -3465,7 +3465,7 @@ hr {
   display: inline-block;
   text-align: center;
   margin-right: 8px;
-  background: #DB8C1D;
+  background: #060A4E;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer-social > a {
@@ -3565,7 +3565,7 @@ hr {
   text-transform: capitalize;
 }
 .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a:hover {
-  color: #DB8C1D;
+  color: #060A4E;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .home-blog-area .home-blog-single .blog-img-cap .blog-cap h3 a {
@@ -3617,7 +3617,7 @@ hr {
   transition: 0.4s;
 }
 .blog_area a:hover, .blog_area a :hover {
-  background: -webkit-linear-gradient(131deg, #DB8C1D 0%, #DB8C1D 99%);
+  background: -webkit-linear-gradient(131deg, #060A4E 0%, #060A4E 99%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   text-decoration: none;
@@ -4044,7 +4044,7 @@ hr {
   left: 10px;
   display: block;
   color: #fff;
-  background-color: #DB8C1D;
+  background-color: #060A4E;
   padding: 8px 15px;
   border-radius: 5px;
 }
@@ -4117,7 +4117,7 @@ hr {
   box-shadow: none;
 }
 .blog_right_sidebar .search_widget .input-group button {
-  background: #DB8C1D;
+  background: #060A4E;
   border-left: 0;
   border: 1px solid #f0e9ff;
   padding: 4px 15px;
@@ -4218,7 +4218,7 @@ hr {
   font-size: 13px;
 }
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background: #DB8C1D;
+  background: #060A4E;
   color: #fff !important;
   -webkit-text-fill-color: #fff;
   text-decoration: none;
