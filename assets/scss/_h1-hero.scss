@@ -21,7 +21,7 @@
 
 // Home Page Heor
 .slider-area{
-    background: #FFEFAE;
+    background: #FFFCF2;
     .hero__caption{
         @media #{$md}{
             padding-top: 80px;;
@@ -34,7 +34,7 @@
         }
         text-align: right;
         p{
-            color: #670000;
+            color: #060A4E;
             font-size: 30px;
             font-weight: 300;
             @media #{$laptop}{
@@ -61,10 +61,10 @@
                 padding-right: 20px;
             }
             a{
-                color: #670000;
+                color: #060A4E;
                 text-decoration: underline !important;
                 b{
-                   color: #670000;
+                   color: #060A4E;
                    text-decoration: underline !important;
                 }
 
@@ -77,7 +77,7 @@
             font-size: 280px;
             font-weight: 300;
             text-transform: uppercase;
-            color: #670000;
+            color: #060A4E;
             line-height: 1;
             margin-bottom: 39px;
             @media #{$lg}{

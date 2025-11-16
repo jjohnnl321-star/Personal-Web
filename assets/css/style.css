@@ -2695,7 +2695,7 @@ hr {
 }
 
 .slider-area {
-  background: #FFEFAE;
+  background: #FFFCF2;
 }
 .slider-area .hero__caption {
   text-align: right;
@@ -2716,7 +2716,7 @@ hr {
   }
 }
 .slider-area .hero__caption p {
-  color: #670000;
+  color: #060A4E;
   font-size: 30px;
   font-weight: 300;
   padding-right: 50px;
@@ -2754,11 +2754,11 @@ hr {
   }
 }
 .slider-area .hero__caption p a {
-  color: #670000;
+  color: #060A4E;
   text-decoration: underline !important;
 }
 .slider-area .hero__caption p a b {
-  color: #670000;
+  color: #060A4E;
   text-decoration: underline !important;
 }
 .slider-area .hero__caption p .in {
@@ -2768,7 +2768,7 @@ hr {
   font-size: 280px;
   font-weight: 300;
   text-transform: uppercase;
-  color: #670000;
+  color: #060A4E;
   line-height: 1;
   margin-bottom: 39px;
   margin-bottom: 39px;
