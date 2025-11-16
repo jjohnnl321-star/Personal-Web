@@ -473,7 +473,7 @@ hr {
 .white-btn {
   padding: 18px 36px;
   background: #FFEFAE;
-  color: #670000 !important;
+  color: #060A4E !important;
 }
 .white-btn::before {
   background: #060A4E;
@@ -520,7 +520,7 @@ hr {
   height: 60px;
   padding: 10px 20px;
   border: 0;
-  color: #670000;
+  color: #060A4E;
   text-transform: capitalize;
   cursor: pointer;
   font-size: 16px;
