@@ -2555,7 +2555,7 @@ hr {
   z-index: 1;
 }
 .header-area .menu-wrapper .main-menu ul li a {
-  color: #060A4E;
+  color: #1E347C;
   font-weight: 400;
   padding: 39px 19px;
   display: block;
@@ -2574,7 +2574,7 @@ hr {
   content: "";
   width: 58px;
   height: 2px;
-  background: #DB8C1D;
+  background: #AF820D;
   bottom: 26px;
   margin: 0 auto;
   left: 3px;
