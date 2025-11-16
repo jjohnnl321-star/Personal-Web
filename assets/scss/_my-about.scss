@@ -1,13 +1,13 @@
 
 .may-about{
-    background: #670000;
+    background: #060A4E;
     .single-about{
         @include flexbox();
         @include justify-content(space-between);
         @include align-items(center);
         @include flex-wrap(wrap);
         padding: 13px 0px;
-        border-bottom: 1px solid #700F0F;
+        border-bottom: 1px solid #1E347C;
         
         .tittle-experience{
             padding-top: 15px;
@@ -15,7 +15,7 @@
             h3{
                 font-weight: 300;
                 font-size: 30px;
-                color: #FFEFAE;
+                color: #FFF5BB;
                 margin-bottom: 19px;
                 @media #{$xs}{
                     font-size: 16px;
@@ -34,7 +34,7 @@
             a{
                 font-weight: 300;
                 font-size: 16px;
-                color: #FFEFAE;
+                color: #FFF5BB;
                 @media #{$xs}{
                     font-size: 13px;
                 }   

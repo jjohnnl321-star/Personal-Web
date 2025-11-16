@@ -3075,7 +3075,7 @@ hr {
 }
 
 .may-about {
-  background: #670000;
+  background: #060A4E;
 }
 .may-about .single-about {
   display: flex;
@@ -3088,7 +3088,7 @@ hr {
   align-items: center;
   flex-wrap: wrap;
   padding: 13px 0px;
-  border-bottom: 1px solid #700F0F;
+  border-bottom: 1px solid #1E347C;
 }
 .may-about .single-about .tittle-experience {
   padding-top: 15px;
@@ -3097,7 +3097,7 @@ hr {
 .may-about .single-about .tittle-experience h3 {
   font-weight: 300;
   font-size: 30px;
-  color: #FFEFAE;
+  color: #FFF5BB;
   margin-bottom: 19px;
 }
 @media (max-width: 575px) {
@@ -3118,7 +3118,7 @@ hr {
 .may-about .single-about .experience-link a {
   font-weight: 300;
   font-size: 16px;
-  color: #FFEFAE;
+  color: #FFF5BB;
 }
 @media (max-width: 575px) {
   .may-about .single-about .experience-link a {
